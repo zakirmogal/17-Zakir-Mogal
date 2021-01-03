@@ -26,7 +26,6 @@ public class BackupDB {
     }
     
     public static void main(String[] args) {
-        // TODO code application logic here
         new BackupDB().backupDB("E:/MyBackup.sql");
     }
     
